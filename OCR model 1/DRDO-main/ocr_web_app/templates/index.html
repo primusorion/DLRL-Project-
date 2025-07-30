@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Smart OCR Tool</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h2>Smart OCR Tool</h2>
+        <form method="POST" enctype="multipart/form-data">
+            <label for="image">Upload File (Image or PDF):</label>
+            <input type="file" name="image" id="image" required>
+
+            <label for="format">Select Output Format:</label>
+            <select name="format" id="format" required>
+                <option value="txt">Text (.txt)</option>
+                <option value="pdf">PDF (.pdf)</option>
+                <option value="docx">Word (.docx)</option>
+            </select>
+
+            <label for="lang">Language Code (e.g., eng, hin, eng+hin):</label>
+            <input type="text" name="lang" id="lang" value="eng">
+
+            <input type="submit" value="Convert Now">
+        </form>
+        <footer>
+            &copy; 2025 Smart OCR | DRDO Project
+        </footer>
+    </div>
+</body>
+</html>

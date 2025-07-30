@@ -1,0 +1,32 @@
+otfocedas Corporate
+Social Cisco Networking Academy
+
+CISCO. Responsibility
+Networking Essentials
+
+The student has successfully achieved student level credential for completing Networking Essentials course administered by the
+undersigned instructor. The student was able to proficiently:
+
+e Explain the concept of network communication. e Explain how clients access internet services.
+e Explain the basic requirements for getting online. e Explain the function of common application layer services.
+e Build a simple home network. e Configure an integrated wireless router and wireless client to
+e Explain the importance of standards and protocols in network connect securely to the internet.
+communications. e Connect wireless PC clients to a wireless router.
+e Explain how communication occurs on Ethernet networks. e Explain how to use security best practices to mitigate attacks.
+e Create a fully connected LAN. e Configure basic network security.
+e Explain the DHCP address assignment process. e Explain how to use the Cisco IOS.
+e Explain the principles of IPv4 and IPv6 address management. e Build a simple computer network using Cisco devices.
+
+Sai Pradhun Gudipudi
+
+Student
+
+K L University
+
+Academy Name
+
+India 12 Jul 2024
+Location Date
+
+Laura Quintana
+VP & General Manager, Cisco Networking Academy
