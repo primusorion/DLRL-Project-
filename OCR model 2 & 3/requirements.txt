@@ -1,0 +1,8 @@
+flask
+torch
+transformers
+Pillow
+fpdf
+python-docx
+pdf2image
+werkzeug
